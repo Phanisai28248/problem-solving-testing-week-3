@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1154-day-of-the-year](https://github.com/Phanisai28248/problem-solving-testing-week-3/tree/master/1154-day-of-the-year) |
+| [1185-day-of-the-week](https://github.com/Phanisai28248/problem-solving-testing-week-3/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/Phanisai28248/problem-solving-testing-week-3/tree/master/1360-number-of-days-between-two-dates) |
 ## String
 |  |
